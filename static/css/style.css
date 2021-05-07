@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+button:hover {
+  color: brown;
+  background-color: black;
+}
+
+/*Esta estilização é somente para testes de configuração*/
+
+input {
+  color: red;
+}

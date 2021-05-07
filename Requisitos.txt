@@ -1,0 +1,5 @@
+Matricular criança.
+Definir horário de entrada e saída
+Definir hora de launch, brincadeira, aprendizado
+Modalidades de pagamentos
+
